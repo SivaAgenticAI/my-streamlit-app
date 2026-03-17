@@ -1,4 +1,4 @@
-langchain
-langchain-groq
-groq
 streamlit
+langchain
+langchain_groq
+groq
